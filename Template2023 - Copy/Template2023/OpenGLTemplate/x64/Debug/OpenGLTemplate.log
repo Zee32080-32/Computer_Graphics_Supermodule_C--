@@ -1,0 +1,39 @@
+﻿  Audio.cpp
+  Camera.cpp
+  CatmullRom.cpp
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(350,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(396,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(473,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(563,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(652,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(740,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(828,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(916,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(1004,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(1078,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(1088,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(1095,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\CatmullRom.cpp(1119,58): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  cube.cpp
+  Cubemap.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\Game.cpp(749,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\Game.cpp(819,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\OpenGLTemplate\Game.cpp(827,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  Shaders.cpp
+  Skybox.cpp
+  Sphere.cpp
+  tetrahedron.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+  Generating Code...
+     Creating library C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\x64\Debug\OpenGLTemplate.lib and object C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\x64\Debug\OpenGLTemplate.exp
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLTemplate.vcxproj -> C:\Users\Zeesh\Documents\Y4\ZeeshanKhalish_180010339 (2)\Template2023 - Copy\Template2023\x64\Debug\OpenGLTemplate.exe
